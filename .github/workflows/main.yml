@@ -7,6 +7,10 @@ on:
 
 jobs:
   build:
+    # Adiciona permissão para a Action escrever no repositório
+    permissions:
+      contents: write
+      
     runs-on: ubuntu-latest
 
     steps:
