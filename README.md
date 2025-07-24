@@ -18,8 +18,8 @@
 
 ### ✨ Projetos em Destaque
 
-- **[API de Gerenciamento de Estoque (Java/Spring)](https://github.com/seu-usuario/seu-repo-1)** - API RESTful para controle de produtos com deploy no Railway.
-- **[Site Akademika (React/TS)](https://github.com/seu-usuario/seu-repo-2)** - Aplicação web full-stack com integração com IA do Google Cloud.
+- **[API de Gerenciamento de Estoque (Java/Spring)](https://github.com/alvaro5801/JavaAvanadeProject)** - API RESTful para controle de produtos com deploy no Railway.
+- **[Site Akademika (React/TS)](https://github.com/alvaro5801/react-akademika)** - Aplicação web full-stack com integração com IA do Google Cloud.
 
 ---
 
