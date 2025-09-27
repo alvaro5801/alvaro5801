@@ -1,4 +1,4 @@
-# Olá, eu sou o Álvaro! 👋
+# Olá, Eu me chamo Álvaro! 👋
 
 <p align="left"> 
   Estudante de Análise e Desenvolvimento de Sistemas na Cesar School, focado na construção de soluções de software robustas, com especial interesse em arquitetura de sistemas back-end.
